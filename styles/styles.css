@@ -1,0 +1,162 @@
+/* idis marto ert elements vuwert
+id ufro prioritetulia vidre class
+garda amisa css aris kaskaduri ena, 
+anu is stilebi eqneba tegebs 
+romelic qvemot ewereba
+yvelaze kargi xarisxis foto svg aris */
+body {
+	padding: 54px 52px;
+}
+
+header {
+	margin-bottom: 44px;
+}
+
+img {
+	vertical-align: middle;
+}
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+ul {
+	font-size:26px;
+	font-weight: 700 ;
+	color:#8D81FF;
+	display: inline-block;
+}
+
+li {
+	display: inline-block;
+	margin-left: 60px;
+}
+
+a {
+	font-size: 26px;
+	font-weight: 700;
+	color: #8D81FF;
+}
+
+.active {
+	color: #4E6FAE;
+}
+
+.day {
+	width: 50px;
+	height: 40px;
+	background-color: #5012D5;
+	color: #84FF81;
+	font-size: 24px;
+	font-weight: 400;
+	text-align: center;
+	padding-top: 12px;
+	margin-bottom: 18px;
+}
+
+h2 {
+	font-size: 24px;
+	font-weight: 400;
+	color: #8D81FF;
+	margin-bottom: 18px;
+}
+
+h3 {
+	font-size: 20px;
+	font-weight: 700;
+	color: #4E6FAE;
+	margin-bottom: 18px;
+}
+
+p {
+	font-size: 16px;
+	font-weight: 400;
+	color: #4E6FAE;
+}
+
+.banner {
+	vertical-align: top;
+}
+
+.info {
+	display: inline-block;
+	width: 778px;
+	vertical-align: top;
+	margin-left: 66px;
+	line-height: 19px;
+}
+
+.page{
+	margin-top:100px;
+}
+
+footer{
+	margin-top:150px;
+}
+
+
+
+.line {
+	display: inline-block;
+	border: 2px solid #5012D5;
+	height: 45px;
+	vertical-align: middle;
+	margin: 0 41px;
+}
+.html{
+	margin-left:100px;
+}
+
+.bad{
+	margin-top: 100px;
+}
+
+.news{
+	display: inline-block;
+	color: #4E6FAE;
+	font-size: 26px;
+	font-weight: 700;
+}
+.good{
+	display: inline-block;
+	border: 2px solid #5012D5;
+	height: 20px;
+	vertical-align: middle;
+	margin: 0 41px;
+
+}
+.detals{
+	display: inline-block;
+	color: #4E6FAE;
+	font-size: 26px;
+	font-weight: 400;
+}
+.group{
+	border: 2px solid #E7E7E7; 
+	display: inline-block;
+	background-color: #E7E7E7;
+  }
+
+.info1{
+	
+	display: inline-block;
+	width: 350px;
+	vertical-align: top;
+	margin-left: 10px;
+	line-height: 19px;
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
